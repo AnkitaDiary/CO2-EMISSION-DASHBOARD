@@ -38,7 +38,7 @@ This interactive Tableau dashboard visualizes global CO₂ emissions trends acro
 | `Global_CO2_Dashboard.twbx` | Tableau packaged workbook             |
 | `screenshots/`          | Visual snapshots of the dashboard       |
 | `README.md`             | Project overview and instructions       |
-| `Data`                  |  Dataset                                |
+| `Data`                  |  Dataset(Raw, Cleaned)                  |
 
 ---
 
